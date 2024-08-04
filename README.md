@@ -8,7 +8,9 @@ project should build an executable (solve.exe) that is menu driven with the foll
 The program should be able to accept an input text file with the mathematical model and export all
 results to an output text file.
 
+
 Minimum Requirements Criteria
+
 
 • Program should accept a random amount of decision variables.
 
@@ -17,6 +19,8 @@ Minimum Requirements Criteria
 • Use comments with programming.
 
 • Programming Best Practices should be implemented.
+
+
 
 Input Text File Criteria
 The first line contains the following, seperated by spaces:
