@@ -1,6 +1,6 @@
 # LPR381Project
 Outline
-Tip: do the assignment first.
+
 For the project create a program that solves Linear Programming and Integer Programming Models
 and then analyses how the changes in an LP’s parameters change the optimal solution.
 Supply the source code as a visual studio project. Any .NET programming language may be used. The
