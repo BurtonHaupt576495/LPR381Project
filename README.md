@@ -11,15 +11,23 @@ results to an output text file.
 Minimum Requirements Criteria
 
 • Program should accept a random amount of decision variables.
+
 • Program should accept a random amount of constraints.
+
 • Use comments with programming.
+
 • Programming Best Practices should be implemented.
+
 Input Text File Criteria
 The first line contains the following, seperated by spaces:
+
 • The word max or min, to indicate whether it is a maximization or a minimization problem.
+
 • For each decision variable, a operator to represent wheter the objective function coefficient is a
 negative or positive.
+
 • For each decision variable, a number to represent its objective function coefficient.
+
 A line for each constraint:
 • The operator of the technological coefficients for the decision variables, in the same order as in
 the specification of the objective function in line 1, that represents whether the technological
