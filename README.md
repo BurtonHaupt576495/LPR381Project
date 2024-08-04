@@ -1,7 +1,7 @@
 # LPR381Project
 Outline
 Tip: do the assignment first.
-For the project, create a program that solves Linear Programming and Integer Programming Models
+For the project create a program that solves Linear Programming and Integer Programming Models
 and then analyses how the changes in an LP’s parameters change the optimal solution.
 Supply the source code as a visual studio project. Any .NET programming language may be used. The
 project should build an executable (solve.exe) that is menu driven with the following:
@@ -9,6 +9,7 @@ The program should be able to accept an input text file with the mathematical mo
 results to an output text file.
 
 Minimum Requirements Criteria
+
 • Program should accept a random amount of decision variables.
 • Program should accept a random amount of constraints.
 • Use comments with programming.
