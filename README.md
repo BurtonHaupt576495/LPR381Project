@@ -29,15 +29,20 @@ negative or positive.
 • For each decision variable, a number to represent its objective function coefficient.
 
 A line for each constraint:
+
 • The operator of the technological coefficients for the decision variables, in the same order as in
 the specification of the objective function in line 1, that represents whether the technological
 coefficient is negative or positive.
+
 • The technological coefficients for the decision variables, in the same order as in the specification
 of the objective function in line 1.
+
 • The relation used in the constraint, with =,<=, or >=, to indicate respectively, an inequality to
 constraint the constaint right-hand-side.
+
 • The right-hand-side of the constraint.
 Sign Restrictions
+
 • Sign restriction to be below all the constraints, seperated by a space, +, -, urs, int, bin, in the
 same order as in the specification of the objective function in line 1.
 
