@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Belgium\LPR381\LPRProject\LPRProject\LPRProject\bin\Debug\net6.0\LPRProject.exe
+C:\Users\User\Desktop\Belgium\LPR381\LPRProject\LPRProject\LPRProject\bin\Debug\net6.0\LPRProject.deps.json
+C:\Users\User\Desktop\Belgium\LPR381\LPRProject\LPRProject\LPRProject\bin\Debug\net6.0\LPRProject.runtimeconfig.json
+C:\Users\User\Desktop\Belgium\LPR381\LPRProject\LPRProject\LPRProject\bin\Debug\net6.0\LPRProject.dll
+C:\Users\User\Desktop\Belgium\LPR381\LPRProject\LPRProject\LPRProject\bin\Debug\net6.0\LPRProject.pdb
+C:\Users\User\Desktop\Belgium\LPR381\LPRProject\LPRProject\LPRProject\obj\Debug\net6.0\LPRProject.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Belgium\LPR381\LPRProject\LPRProject\LPRProject\obj\Debug\net6.0\LPRProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Belgium\LPR381\LPRProject\LPRProject\LPRProject\obj\Debug\net6.0\LPRProject.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Belgium\LPR381\LPRProject\LPRProject\LPRProject\obj\Debug\net6.0\LPRProject.AssemblyInfo.cs
+C:\Users\User\Desktop\Belgium\LPR381\LPRProject\LPRProject\LPRProject\obj\Debug\net6.0\LPRProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Belgium\LPR381\LPRProject\LPRProject\LPRProject\obj\Debug\net6.0\LPRProject.dll
+C:\Users\User\Desktop\Belgium\LPR381\LPRProject\LPRProject\LPRProject\obj\Debug\net6.0\refint\LPRProject.dll
+C:\Users\User\Desktop\Belgium\LPR381\LPRProject\LPRProject\LPRProject\obj\Debug\net6.0\LPRProject.pdb
+C:\Users\User\Desktop\Belgium\LPR381\LPRProject\LPRProject\LPRProject\obj\Debug\net6.0\LPRProject.genruntimeconfig.cache
+C:\Users\User\Desktop\Belgium\LPR381\LPRProject\LPRProject\LPRProject\obj\Debug\net6.0\ref\LPRProject.dll
